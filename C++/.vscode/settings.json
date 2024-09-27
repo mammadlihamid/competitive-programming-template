@@ -1,0 +1,14 @@
+{
+  "C_Cpp.errorSquiggles": "enabledIfIncludesResolve",
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "cmath": "cpp",
+    "random": "cpp",
+    "iosfwd": "cpp",
+    "future": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "vector": "cpp"
+  }
+}
