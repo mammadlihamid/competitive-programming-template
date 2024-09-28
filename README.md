@@ -191,4 +191,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ---
 
 Happy coding and good luck with your competitive programming journey! 💻🎯
-```
